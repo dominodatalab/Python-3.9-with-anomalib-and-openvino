@@ -1,0 +1,6 @@
+{
+  "title": "Python 3.9 with anomalib and openvino",
+  "id": "Python 3.9 with anomalib and openvino",
+  "environmentBaseImage": "quay.io/domino/compute-environment-images:ubuntu20-py3.9-r4.3-domino5.7-standard",
+  "description": "Domino Standard Environment with Python 3.9 and Anomalib."
+}

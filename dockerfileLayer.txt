@@ -1,0 +1,6 @@
+USER ubuntu
+RUN pip install --user anomalib==0.6.0 \
+    && pip install --user openvino==2023.0.1
+
+
+RUN pip install --user openvino-dev[pytorch,onnx]==2023.0.1
